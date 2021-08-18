@@ -1,5 +1,4 @@
-# rtnorm
-Simulation of truncated Gaussian Distribution
+# Simulation of truncated Gaussian Distribution
 
 In 2005, we developped a first method to generate random variables distributed from a Gaussian distribution defined on a semi-finite interval [a,+∞[. This method was implemented in Scilab, Matlab and Java.
 
