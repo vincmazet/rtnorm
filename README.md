@@ -2,7 +2,7 @@
 
 In 2005, we developped a first method to generate random variables distributed from a Gaussian distribution defined on a semi-finite interval [a,+∞[. This method was implemented in Scilab, Matlab and Java.
 
-Following the [article](http://dx.doi.org/10.1007/s11222-009-9168-1) published in 2011 by Nicolas Chopin, we have developped a method to simulate a Gaussian distribution defined on a finite interval [a,b]. This method is still able to consider semi-finite interval by setting $b = +\infty$. The principle is to divide the interval into regions with the same area where acceptation-reject algorithms with appropriate distributions are used.
+Following the [article](http://dx.doi.org/10.1007/s11222-009-9168-1) published in 2011 by Nicolas Chopin, we have developped a method to simulate a Gaussian distribution defined on a finite interval [a,b]. This method is still able to consider semi-finite interval by setting b=+∞. The principle is to divide the interval into regions with the same area where acceptation-reject algorithms with appropriate distributions are used.
 
 Nicolas Chopin's methodis coded in C, but only on a semi-finite interval [a,+∞[. We extend his method to a finite interval [a,b], following its recommandations. The method is implemented in Matlab and C++; it is faster than our former implementation and also allows to consider a finite interval. However, it is still not able to generate a random vector, contrary to the version of 2005.
 
