@@ -11,9 +11,11 @@ The following table summarize the implementations and their characteristics, as 
 | Code | Author | Year | Size | Language | Dimensions | Truncation Interval |
 | ---- | ------ | ---- | ---- | -------- | ---------- | ------------------- |
 | [truncgauss](http://chopin.perso.math.cnrs.fr/truncgauss.tgz) | [N. Chopin](https://nchopin.github.io/) | 2011 | 462 kb | C/Python | 1/2 | semi-finite/semi-finite or finite |
-| rpnorm     | V. Mazet           | 2005 |   2 kb | Matlab, Scilab, Java | 1 or greater | semi-finite |
-| rtnorm     | V. Mazet           | 2012 |  58 kb | Matlab | 1 | semi-finite or finite |
-| rtnorm     | G. Dollé, V. Mazet | 2012 |  67 kb | C++ | 1 | semi-finite or finite |
+| [rpnorm](rpnorm.zip) | V. Mazet           | 2005 |   2 kb | Matlab | 1 or greater | semi-finite |
+| [rpnorm](rpnorm.sci) | V. Mazet           | 2005 |   2 kb | Scilab | 1 or greater | semi-finite |
+| [rpnorm](rpnorm.java) | B. Perret, V. Mazet           | 2010 |   4 kb | Java | 1 or greater | semi-finite |
+| [rtnorm](rtnormM.zip) | V. Mazet           | 2012 |  58 kb | Matlab | 1 | semi-finite or finite |
+| [rtnorm](rtnormCpp.zip) | G. Dollé, V. Mazet | 2012 |  67 kb | C++ | 1 | semi-finite or finite |
 | rtnorm     | C. Lassner         | 2013 |  60 kb | Python | 1 | semi-finite or finite |
 | [dtnorm](https://github.com/alanrogers/dtnorm) | [Alan R. Rogers](http://content.csbs.utah.edu/~rogers/) | 2016 | 232 kb | C | 1 | finite |
 
