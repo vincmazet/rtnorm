@@ -16,7 +16,7 @@ The following table summarize the implementations and their characteristics, as 
 | [rpnorm](rpnorm.java) | B. Perret, V. Mazet           | 2010 |   4 kb | Java | 1 or greater | semi-finite |
 | [rtnorm](rtnormM.zip) | V. Mazet           | 2012 |  58 kb | Matlab | 1 | semi-finite or finite |
 | [rtnorm](rtnormCpp.zip) | G. Dollé, V. Mazet | 2012 |  67 kb | C++ | 1 | semi-finite or finite |
-| rtnorm     | C. Lassner         | 2013 |  60 kb | Python | 1 | semi-finite or finite |
+| [rtnorm](https://github.com/demichie/MrLavaLoba/blob/master/rtnorm.py) | C. Lassner         | 2013 |  60 kb | Python | 1 | semi-finite or finite |
 | [dtnorm](https://github.com/alanrogers/dtnorm) | [Alan R. Rogers](http://content.csbs.utah.edu/~rogers/) | 2016 | 232 kb | C | 1 | finite |
 
 
